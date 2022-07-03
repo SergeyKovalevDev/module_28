@@ -1,0 +1,5 @@
+Исследуйте ArrayList, AbstractList и Collection, как показано в примере выше. Узнайте:
+
+1. Имеет ли ArrayList модификаторы public или protected.
+2. Имеет ли AbstractList модификаторы static или abstract.
+3. Является ли Collection интерфейсом.

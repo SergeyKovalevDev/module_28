@@ -1,0 +1,4 @@
+Перепишите следующий код, используя метод invoke().
+
+Deletable deletable = (Deletable) clazz.getConstructor().newInstance();
+deletable.delete("s3d4");
